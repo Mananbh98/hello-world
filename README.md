@@ -1,2 +1,2 @@
 # hello-world
-Starting with github
+Welcome humans to our lovely abode!
